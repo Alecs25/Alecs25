@@ -1,6 +1,4 @@
-Assolutamente, ecco una versione più personalizzata basata sulle informazioni che hai fornito:
 
-```markdown
 # Ciao, sono Alex! 👋
 
 Studente appassionato presso [Develhope], dove sto affinando le mie abilità come Full Stack Developer. Sono appassionato di creare esperienze utente coinvolgenti utilizzando tecnologie come JavaScript, CSS, TypeScript, HTML5 e React.
@@ -28,13 +26,10 @@ Mi definisco uno sviluppatore con la testa tra le nuvole e il cuore nel codice. 
 
 ## Statistiche GitHub
 
-![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=alecs25&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=Alecs25)]
 
 ## Contattami
 
 Sono sempre entusiasta di connettermi con altri sviluppatori, studenti o appassionati di tecnologia! Puoi inviarmi un'email a [alex00romagnoli@gmail.com] o trovarmi sui miei profili social.
 
 Happy coding! 🚀
-```
-
-Assicurati di personalizzare ulteriormente le sezioni "Altro" e "Progetti Attuali" con le tue esperienze e informazioni aggiuntive.
