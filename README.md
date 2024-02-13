@@ -1,11 +1,11 @@
 
 # Ciao, sono Alex! 👋
 
-Studente appassionato presso [Develhope], dove sto affinando le mie abilità come Full Stack Developer. Sono appassionato di creare esperienze utente coinvolgenti utilizzando tecnologie come JavaScript, CSS, TypeScript, HTML5 e React.
+Studente appassionato presso Develhope, dove sto affinando le mie abilità come Full Stack Developer. Sono appassionato di creare esperienze utente coinvolgenti utilizzando tecnologie come JavaScript, CSS, TypeScript, HTML5 e React.
 
 ## Chi Sono
 
-Mi definisco uno sviluppatore con la testa tra le nuvole e il cuore nel codice. Attualmente immerso nei corsi di [Develhope], sto esplorando il vasto mondo dello sviluppo web, concentrando la mia attenzione su frontend e backend.
+Mi definisco uno sviluppatore con la testa tra le nuvole e il cuore nel codice. Attualmente immerso nei corsi di Develhope, sto esplorando il vasto mondo dello sviluppo web, concentrando la mia attenzione su frontend e backend.
 
 ## Dove Trovarmi
 
@@ -17,12 +17,17 @@ Mi definisco uno sviluppatore con la testa tra le nuvole e il cuore nel codice. 
 
 - 💻 Linguaggi: JavaScript, TypeScript
 - 🎨 Frontend: HTML5, CSS, React
-- 🔧 Altro: [Includi altre competenze qui]
+- 🔧 Altro: <!-- [Includi altre competenze qui] -->
 
 ## Progetti Attuali
 
-- **[Nome del Progetto 1]**: Esplorando [Descrizione breve del progetto].
-- **[Nome del Progetto 2]**: Creando una nuova esperienza con [Descrizione breve del progetto].
+- [**HomePage Lego:**](https://github.com/Alecs25/LegoHomePage) cercando di realizzare la home page di Lego, utilizzando solo HTML, CSS e JavaScript.
+
+  
+## Progetti Terminati
+
+- [**HomePage Netflix:**](https://github.com/Alecs25/NetflixProj) realizzata la homepage di Netflix, utilizzando solo HTML e CSS.
+
 
 ## Statistiche GitHub
 
