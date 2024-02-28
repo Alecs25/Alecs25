@@ -31,7 +31,7 @@ Mi definisco uno sviluppatore con la testa tra le nuvole e il cuore nel codice. 
 
 ## Statistiche GitHub
 
-![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=Alecs25)]
+![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=Alecs25)
 
 ## Contattami
 
