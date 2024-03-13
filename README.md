@@ -21,13 +21,14 @@ Mi definisco uno sviluppatore con la testa tra le nuvole e il cuore nel codice. 
 
 ## Progetti Attuali
 
-- [**HomePage Lego:**](https://github.com/Alecs25/LegoHomePage) cercando di realizzare la home page di Lego, utilizzando solo HTML, CSS e JavaScript.
+- [**Progetto Segreto**](https://github.com/Alecs25/NetflixProj) realizzazione di un progetto... segreto.
 
   
 ## Progetti Terminati
 
 - [**HomePage Netflix:**](https://github.com/Alecs25/NetflixProj) realizzata la homepage di Netflix, utilizzando solo HTML e CSS.
 
+- [**HomePage Lego:**](https://github.com/Alecs25/LegoHomePage) cercando di realizzare la home page di Lego, utilizzando solo HTML, CSS e JavaScript.
 
 ## Statistiche GitHub
 
