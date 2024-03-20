@@ -17,6 +17,7 @@ Mi definisco uno sviluppatore con la testa tra le nuvole e il cuore nel codice. 
 
 - 💻 Linguaggi: JavaScript, TypeScript
 - 🎨 Frontend: HTML5, CSS, React
+- 🕹️ Backend: node.js, Express
 - 🔧 Altro: <!-- [Includi altre competenze qui] -->
 
 ## Progetti Attuali
