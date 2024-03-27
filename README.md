@@ -22,7 +22,7 @@ Mi definisco uno sviluppatore con la testa tra le nuvole e il cuore nel codice. 
 
 ## Progetti Attuali
 
-- [**Progetto Segreto**](https://github.com/Alecs25/NetflixProj) realizzazione di un progetto... segreto.
+- [**Progetto Segreto**](https://github.com/Alecs25/secretProject) realizzazione di un progetto... segreto.
 
   
 ## Progetti Terminati
