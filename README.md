@@ -1,7 +1,7 @@
 
 # Ciao, sono Alex! 👋
 
-Studente appassionato presso [Develhope](develhope.co), dove sto affinando le mie abilità come Full Stack Developer. Sono appassionato di creare esperienze utente coinvolgenti utilizzando tecnologie come JavaScript, CSS, TypeScript, HTML5 e React.
+Studente appassionato presso [Develhope](develhope.co), dove sto affinando le mie abilità come Full Stack Developer. Appasionato da sempre all'elettronica e l'informatica, da qualche mese mi diletto nella creazione di "cose" utilizzando tecnologie come JavaScript, CSS, TypeScript, HTML5 e React.
 
 ## Chi Sono
 
