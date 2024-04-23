@@ -22,7 +22,7 @@ Mi definisco uno sviluppatore con la testa tra le nuvole e il cuore nel codice. 
 
 ## Progetti Attuali
 
-- [**e-commerce:**](licenseplanet.it)) realizzazione di un e-commerce B2B per la vendita di licenze digitali.
+- [**License Planet:**](https://licenseplanet.it) realizzazione di un e-commerce B2B per la vendita di licenze digitali.
 
   
 ## Progetti Terminati
