@@ -22,7 +22,7 @@ Mi definisco uno sviluppatore con la testa tra le nuvole e il cuore nel codice. 
 
 ## Progetti Attuali
 
-- [**Progetto Segreto**](https://github.com/Alecs25/secretProject) realizzazione di un progetto... segreto.
+- [**e-commerce:**](licenseplanet.it)) realizzazione di un e-commerce B2B per la vendita di licenze digitali.
 
   
 ## Progetti Terminati
@@ -30,6 +30,9 @@ Mi definisco uno sviluppatore con la testa tra le nuvole e il cuore nel codice. 
 - [**HomePage Netflix:**](https://github.com/Alecs25/NetflixProj) realizzata la homepage di Netflix, utilizzando solo HTML e CSS.
 
 - [**HomePage Lego:**](https://github.com/Alecs25/LegoHomePage) cercando di realizzare la home page di Lego, utilizzando solo HTML, CSS e JavaScript.
+
+- [**Progetto Segreto**](https://github.com/Alecs25/secretProject) realizzazione di una piattaforma per la condivisione di articoli con relativo comment system. 
+
 
 ## Statistiche GitHub
 
